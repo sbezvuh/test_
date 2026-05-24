@@ -1,3 +1,5 @@
 print('Hello!')
+print(18)
 print('Hi')
 print(2+2)
+print(21)
